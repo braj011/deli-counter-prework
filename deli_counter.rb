@@ -25,3 +25,9 @@ end
 
 # function 3 
 
+def now_serving (katz_deli)
+  
+  
+  
+  
+  
